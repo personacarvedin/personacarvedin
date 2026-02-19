@@ -12,85 +12,101 @@
   </picture>
 </p>
 <h1 align="center"> Hello World! I'm Dhanyashree N</h1>
-<p align="center">💻 Final-year Computer Science student | Data Science | ML | Quantum Computing | Software Development</p>
+<p align="center">💻 Final-year Computer Science student | Software Development| ML | Quantum Computing </p>
 
 ---
 
 ## 💬 About Me
 I'm passionate about building **AI-powered applications, scalable data solutions, and quantum computing projects**.  
-I love exploring **machine learning, data analytics, cloud technologies, and backend development**.  
+I love exploring **software development, machine learning and data analytics**.  
 
 ---
-
 ## 🛠️ Skills
 
-### Programming & Languages
+### 👩‍💻 Programming and Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/-R_(Basic)-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### Data Science & ML
+### 🤖 Machine Learning and Data Science
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PySpark](https://img.shields.io/badge/-PySpark-EE4C2C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![SHAP](https://img.shields.io/badge/-SHAP-FF5A5F?style=for-the-badge)
-![LLMs & GenAI](https://img.shields.io/badge/-LLMs%20%26%20GenAI-9B59B6?style=for-the-badge)
+![GenAI & LLMs](https://img.shields.io/badge/-GenAI%20%26%20LLMs-9B59B6?style=for-the-badge)
 
-### Cloud & Tools
+### 🌐 Web and Backend Development
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### ☁️ Cloud and DevOps
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge)
+![CI/CD](https://img.shields.io/badge/-CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
----
-
-<div align="center">
-    
-  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
-</div>
+### 🛠️ Tools and Platforms
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
 
 ---
 
 ## 📂 Projects
 
-### 🌟 [Predicting Employee Attrition](https://github.com/personacarvedin/Employee_Attrition_Prediction) (Ongoing)
-- ML model development & SHAP interpretability  
-- Interactive web app (Flask/Streamlit)  
+### 🤖 Machine Learning and Data Science
 
-### 🌍 [Climate Change Analysis](https://github.com/personacarvedin/ClimateChangeAnalysis)
-- Scalable data analysis using PySpark  
-- Visualization of climate trends  
+#### 🌟 [Predicting Employee Attrition](https://github.com/personacarvedin/Employee_Attrition_Prediction)
+- Built an end-to-end ML pipeline comparing 8 models (XGBoost, Random Forest, SVM, etc.) 
+  to predict employee attrition with measurable precision and recall metrics
+- Integrated SHAP-based interpretability to surface key attrition drivers and deployed 
+  the solution as a Flask web app supporting both single-entry and bulk CSV predictions
 
-### ⚛️ [Quantum Enhanced Classifier](https://github.com/personacarvedin/QuantumEnhancedClassifier)
-- Classical vs Quantum algorithm comparison  
-- Demonstrates quantum advantage  
+#### 🌦️ [Climate Change Analysis](https://github.com/personacarvedin/ClimateChangeAnalysis)
+- Processed large-scale climate datasets using PySpark to extract trends across decades,
+  demonstrating ability to work with distributed data pipelines at scale
 
-### 🧩 [Quantum Gate Visualizer](https://github.com/personacarvedin/QuantumGateVisualizer)
-- Simulates single- and two-qubit operations  
-- Supports Pauli, Hadamard, CNOT, and rotation gates
+#### 😊 [Happiness Data Analysis](https://github.com/personacarvedin/World-Happiness-Report)
+- Analyzed global socioeconomic indicators to uncover factors influencing happiness scores
+  across 150+ countries using correlation heatmaps and statistical visualizations
 
-### 🌀 [Quantum Entanglement Simulator](https://github.com/personacarvedin/QuantumEntanglementSimulator)
-- Simulates bell states and custom entangled states
-- Visualizes quantum state probabilities
+---
 
-### 🔧 [Data-Defined Workflow Engine](https://github.com/personacarvedin/DataProcessEngine)
-- Modular backend framework using TypeScript  
-- Extensible & reusable data pipelines
+### 🔧 Software and Backend Development
 
-### 🌍 [Happiness Data Analysis](https://github.com/personacarvedin/World-Happiness-Report)
-- Explored socioeconomic factors affecting global happiness
-- Visualizations: distribution histograms & correlation heatmaps
+#### 🔧 [Data-Defined Workflow Engine](https://github.com/personacarvedin/DataProcessEngine)
+- Architected a modular TypeScript workflow engine that processes data through 
+  configurable connected nodes with shared base logic and sequential execution
+- Designed for extensibility and reusability — core traits Itron looks for in 
+  Development and Testing roles
 
-### 🥗 [Food Saver](https://github.com/personacarvedin/FoodSaver)
-- Tracks food inventory & expiration dates
-- Interactive dashboard with consumption stats
+#### 🥗 [Food Saver](https://github.com/personacarvedin/FoodSaver)
+- Developed a full-stack inventory management app tracking food items and expiration dates
+  with an interactive consumption dashboard built using Firebase
+
+---
+
+### ⚛️ Quantum Computing
+
+#### ⚛️ [Quantum Enhanced Classifier](https://github.com/personacarvedin/QuantumEnhancedClassifier)
+- Designed and benchmarked a quantum classifier against its classical counterpart,
+  demonstrating measurable quantum advantage on select problem sets
+
+#### 🧩 [Quantum Gate Visualizer](https://github.com/personacarvedin/QuantumGateVisualizer)
+- Built a simulation engine for single- and two-qubit gate transformations including
+  Pauli, Hadamard, CNOT, and rotation gates with amplitude and probability visualization
+
+#### 🌀 [Quantum Entanglement Simulator](https://github.com/personacarvedin/QuantumEntanglementSimulator)
+- Simulated Bell states and custom entangled states with real-time quantum state
+  probability visualization, bridging theoretical quantum mechanics and practical coding
 
 ---
 
