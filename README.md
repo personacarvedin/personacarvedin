@@ -11,7 +11,7 @@
          alt="Banner" width="100%">
   </picture>
 </p>
-<h1 align="center"> Hello World! I'm Dhanyashree N</h1>
+<h1 align="center"> Hello! I'm Dhanyashree N</h1>
 <p align="center">💻 Final-year Computer Science student | Software Development| ML | Quantum Computing </p>
 
 ---
