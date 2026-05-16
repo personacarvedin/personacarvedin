@@ -86,7 +86,7 @@ I love exploring **software development, machine learning and data analytics**.
 #### 🔧 [Data-Defined Workflow Engine](https://github.com/personacarvedin/DataProcessEngine)
 - Architected a modular TypeScript workflow engine that processes data through 
   configurable connected nodes with shared base logic and sequential execution
-- Designed for extensibility and reusability — core traits Itron looks for in 
+- Designed for extensibility and reusability
   Development and Testing roles
 
 #### 🥗 [Food Saver](https://github.com/personacarvedin/FoodSaver)
